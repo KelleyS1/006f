@@ -2,6 +2,7 @@
  
 Software needed: Max/MSP and Wekinator(free program download able at: http://www.wekinator.org/downloads/ )
 Hardware: midi keyboard (screen and projector)
+Sheet music: Pick which ever piece you would like to play. For example, I’ve used selections from Bartok Mikrokosmos. There is no specified duration for this work. 
 
 The URL of the GitHub repository: https://github.com/KelleyS1/006f
 
