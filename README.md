@@ -6,7 +6,7 @@ Sheet music: Pick which ever piece you would like to play. For example, I’ve u
 
 The URL of the GitHub repository: https://github.com/KelleyS1/006f
 
-More detailed instructions at: https://docs.google.com/document/d/13SwEnS4s40I5Pp4TCLV48HapOivRycbarLft_RDF6zg/edit?usp=sharing (copy and paste)
+More detailed instructions at in the pdf titled “006f Weki Setup Instructions” in the main folder.
 
 
 Abstract
@@ -20,7 +20,7 @@ How to run this project?
 
 2.Once the Max patch is open follow steps within the patch to setup your midi controller and run the video. Make sure you can see midi controller’s key presses reflected within the keyboard in the patch. Responds to middle C to C6 (midi # 60-84). 
 
-3. Open Wekinator program and load the file inside “wekMidi” folder. Do this through file > open project>(navigate to 006f-master/wekiMidi and select) WekinatorProject.wekproj. More through instructions in google doc listed above.
+3. Open Wekinator program and load the file inside “wekMidi” folder. Do this through file > open project>(navigate to 006f-main/wekiMidi and select) WekinatorProject.wekproj. More through instructions in google doc listed above.
 
 4. Once wekinator file is loaded click “start listening” (port 6448 should be the default). Then click “Run”. Now when you press your midi controller keys you should see wekinator reacting and the video changing to respond.
 
